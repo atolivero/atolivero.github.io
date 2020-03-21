@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Alexander Olivero, a Data Engineer living in Indianapolis, IN.  Professionally, I work to design and implement
+data pipelines for analytics in the healthcare space.  I script in Python and use Apache Spark for the cluster
+computer framework.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+In my personal time, I enjoy keeping my body healthy by lifting, playing sand volleyball, and bouldering when I can.
+I enjoy reading about organizational behavior, philosophy, software engineering.  While I find it hard to pick up
+fiction, when I do, I gravitate towards sci-fi.
